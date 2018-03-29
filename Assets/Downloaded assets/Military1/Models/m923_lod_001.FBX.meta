@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: cc666403a5433ef4d813b6534c5e03b6
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: back_up
+    100004: door_L
+    100006: door_L 1
+    100008: door_R
+    100010: door_R 1
+    100012: glass
+    100014: glass_L
+    100016: glass_R
+    100018: inside
+    100020: //RootNode
+    100022: under
+    100024: wheel
+    100026: wheel_LB00
+    100028: wheel_LB01
+    100030: wheel_LF
+    100032: wheel_RB00
+    100034: wheel_RB01
+    100036: wheel_RF
+    400000: back
+    400002: back_up
+    400004: door_L
+    400006: door_L 1
+    400008: door_R
+    400010: door_R 1
+    400012: glass
+    400014: glass_L
+    400016: glass_R
+    400018: inside
+    400020: //RootNode
+    400022: under
+    400024: wheel
+    400026: wheel_LB00
+    400028: wheel_LB01
+    400030: wheel_LF
+    400032: wheel_RB00
+    400034: wheel_RB01
+    400036: wheel_RF
+    2300000: back
+    2300002: back_up
+    2300004: door_L 1
+    2300006: door_R 1
+    2300008: glass
+    2300010: glass_L
+    2300012: glass_R
+    2300014: inside
+    2300016: under
+    2300018: wheel
+    2300020: wheel_LB00
+    2300022: wheel_LB01
+    2300024: wheel_LF
+    2300026: wheel_RB00
+    2300028: wheel_RB01
+    2300030: wheel_RF
+    3300000: back
+    3300002: back_up
+    3300004: door_L 1
+    3300006: door_R 1
+    3300008: glass
+    3300010: glass_L
+    3300012: glass_R
+    3300014: inside
+    3300016: under
+    3300018: wheel
+    3300020: wheel_LB00
+    3300022: wheel_LB01
+    3300024: wheel_LF
+    3300026: wheel_RB00
+    3300028: wheel_RB01
+    3300030: wheel_RF
+    4300000: back_up
+    4300002: wheel
+    4300004: inside
+    4300006: back
+    4300008: under
+    4300010: wheel_LB01
+    4300012: wheel_LB00
+    4300014: wheel_LF
+    4300016: wheel_RB01
+    4300018: wheel_RB00
+    4300020: wheel_RF
+    4300022: glass
+    4300024: door_R
+    4300026: glass_R
+    4300028: door_L
+    4300030: glass_L
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

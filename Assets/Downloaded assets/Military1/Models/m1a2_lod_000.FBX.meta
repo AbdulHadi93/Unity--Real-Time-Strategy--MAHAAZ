@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: f16b4074d6deadf4b96bae95585be5f7
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cannon
+    100002: chain
+    100004: down
+    100006: //RootNode
+    100008: tower
+    100010: tower 1
+    100012: wheel_L_00
+    100014: wheel_L_01
+    100016: wheel_L_02
+    100018: wheel_L_03
+    100020: wheel_L_04
+    100022: wheel_L_05
+    100024: wheel_L_06
+    100026: wheel_L_07
+    100028: wheel_L_08
+    100030: wheel_R_00
+    100032: wheel_R_01
+    100034: wheel_R_02
+    100036: wheel_R_03
+    100038: wheel_R_04
+    100040: wheel_R_05
+    100042: wheel_R_06
+    100044: wheel_R_07
+    100046: wheel_R_08
+    400000: cannon
+    400002: chain
+    400004: down
+    400006: //RootNode
+    400008: tower
+    400010: tower 1
+    400012: wheel_L_00
+    400014: wheel_L_01
+    400016: wheel_L_02
+    400018: wheel_L_03
+    400020: wheel_L_04
+    400022: wheel_L_05
+    400024: wheel_L_06
+    400026: wheel_L_07
+    400028: wheel_L_08
+    400030: wheel_R_00
+    400032: wheel_R_01
+    400034: wheel_R_02
+    400036: wheel_R_03
+    400038: wheel_R_04
+    400040: wheel_R_05
+    400042: wheel_R_06
+    400044: wheel_R_07
+    400046: wheel_R_08
+    2300000: cannon
+    2300002: chain
+    2300004: down
+    2300006: tower 1
+    2300008: wheel_L_00
+    2300010: wheel_L_01
+    2300012: wheel_L_02
+    2300014: wheel_L_03
+    2300016: wheel_L_04
+    2300018: wheel_L_05
+    2300020: wheel_L_06
+    2300022: wheel_L_07
+    2300024: wheel_L_08
+    2300026: wheel_R_00
+    2300028: wheel_R_01
+    2300030: wheel_R_02
+    2300032: wheel_R_03
+    2300034: wheel_R_04
+    2300036: wheel_R_05
+    2300038: wheel_R_06
+    2300040: wheel_R_07
+    2300042: wheel_R_08
+    3300000: cannon
+    3300002: chain
+    3300004: down
+    3300006: tower 1
+    3300008: wheel_L_00
+    3300010: wheel_L_01
+    3300012: wheel_L_02
+    3300014: wheel_L_03
+    3300016: wheel_L_04
+    3300018: wheel_L_05
+    3300020: wheel_L_06
+    3300022: wheel_L_07
+    3300024: wheel_L_08
+    3300026: wheel_R_00
+    3300028: wheel_R_01
+    3300030: wheel_R_02
+    3300032: wheel_R_03
+    3300034: wheel_R_04
+    3300036: wheel_R_05
+    3300038: wheel_R_06
+    3300040: wheel_R_07
+    3300042: wheel_R_08
+    4300000: down
+    4300002: chain
+    4300004: wheel_L_00
+    4300006: wheel_L_01
+    4300008: wheel_L_02
+    4300010: wheel_L_03
+    4300012: wheel_L_04
+    4300014: wheel_L_05
+    4300016: wheel_L_06
+    4300018: wheel_L_07
+    4300020: wheel_L_08
+    4300022: wheel_R_00
+    4300024: wheel_R_01
+    4300026: wheel_R_02
+    4300028: wheel_R_03
+    4300030: wheel_R_04
+    4300032: wheel_R_05
+    4300034: wheel_R_06
+    4300036: wheel_R_07
+    4300038: wheel_R_08
+    4300040: tower
+    4300042: cannon
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

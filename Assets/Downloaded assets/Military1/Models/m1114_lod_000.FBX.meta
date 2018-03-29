@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: a62e316ba752afe42b36b6e4b1711129
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: back 1
+    100004: door_LB
+    100006: door_left_1
+    100008: door_left_2
+    100010: door_LF
+    100012: door_RB
+    100014: door_RF
+    100016: door_right_1
+    100018: door_right_2
+    100020: glass_front
+    100022: glass_LB
+    100024: glass_LF
+    100026: glass_RB
+    100028: glass_RF
+    100030: inside
+    100032: //RootNode
+    100034: outs
+    100036: under
+    100038: wheel
+    100040: wheel_LB
+    100042: wheel_LF
+    100044: wheel_RB
+    100046: wheel_RF
+    400000: back
+    400002: back 1
+    400004: door_LB
+    400006: door_left_1
+    400008: door_left_2
+    400010: door_LF
+    400012: door_RB
+    400014: door_RF
+    400016: door_right_1
+    400018: door_right_2
+    400020: glass_front
+    400022: glass_LB
+    400024: glass_LF
+    400026: glass_RB
+    400028: glass_RF
+    400030: inside
+    400032: //RootNode
+    400034: outs
+    400036: under
+    400038: wheel
+    400040: wheel_LB
+    400042: wheel_LF
+    400044: wheel_RB
+    400046: wheel_RF
+    2300000: back 1
+    2300002: door_left_1
+    2300004: door_left_2
+    2300006: door_right_1
+    2300008: door_right_2
+    2300010: glass_front
+    2300012: glass_LB
+    2300014: glass_LF
+    2300016: glass_RB
+    2300018: glass_RF
+    2300020: inside
+    2300022: outs
+    2300024: under
+    2300026: wheel
+    2300028: wheel_LB
+    2300030: wheel_LF
+    2300032: wheel_RB
+    2300034: wheel_RF
+    3300000: back 1
+    3300002: door_left_1
+    3300004: door_left_2
+    3300006: door_right_1
+    3300008: door_right_2
+    3300010: glass_front
+    3300012: glass_LB
+    3300014: glass_LF
+    3300016: glass_RB
+    3300018: glass_RF
+    3300020: inside
+    3300022: outs
+    3300024: under
+    3300026: wheel
+    3300028: wheel_LB
+    3300030: wheel_LF
+    3300032: wheel_RB
+    3300034: wheel_RF
+    4300000: wheel_RB
+    4300002: outs
+    4300004: under
+    4300006: inside
+    4300008: wheel_LF
+    4300010: wheel_RF
+    4300012: wheel_LB
+    4300014: back
+    4300016: wheel
+    4300018: glass_front
+    4300020: glass_LF
+    4300022: door_left_1
+    4300024: door_left_2
+    4300026: glass_LB
+    4300028: door_right_2
+    4300030: glass_RB
+    4300032: door_right_1
+    4300034: glass_RF
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
